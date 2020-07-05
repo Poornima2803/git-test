@@ -4,9 +4,9 @@
   "description": "This is a test directory to learn git and node ",
   "main": "index.html",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "url": "https://github.com/Poornima2803/git-test/issues"
   },
   "homepage": "https://github.com/Poornima2803/git-test#readme",
-  "devDependencies":{
+  "devDependencies": {
     "lite-server": "^2.2.2"
   }
 }
